@@ -8,6 +8,6 @@ I'm currently a software engineer & application architect [@IBM GBS](https://www
 [![Quay](https://img.shields.io/badge/-Quay.io-EE0000?style=flat-square&amp;labelColor=EE0000&amp;logo=red-hat)](https://quay.io/user/fhopfensperger)
 
 
-- 👨‍💻 Most of my projects are available on [GitHub](https://fhopfensperger.github.io/#projects)
+- 👨‍💻 My projects are available on [GitHub](https://fhopfensperger.github.io/#projects)
 - 💬 Ask me about **cloud stuff**
-- 📫 How to reach me: [twitter](https://twitter.com/FHopfensperger) & [email](mailto:f.hopfensperger@gmail.com)
+- 📫 Reach me via [twitter](https://twitter.com/FHopfensperger) or [email](mailto:f.hopfensperger@gmail.com)
