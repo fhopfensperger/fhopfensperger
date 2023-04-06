@@ -1,6 +1,6 @@
 ### Hi 👋, I'm [Florian](https://fhopfensperger.github.io)
 
-I'm currently a Cloud Engeering Team Lead [@Allianz Technology](https://www.allianz.com/de/allianz-technology-se.html) based in 🏔 Munich.
+I'm currently a Technical Lead for Cloud Platform Engineering [@Allianz Technology](https://www.allianz.com/de/allianz-technology-se.html) based in 🏔 Munich.
 
 [![Website](https://img.shields.io/badge/-fhopfensperger.github.io-4285F4?style=flat-square&amp;labelColor=4285F4&amp;logo=google-chrome&amp;logoColor=FFFFFF)](https://fhopfensperger.github.io)
 [![LinkedIn](https://img.shields.io/badge/-@florian&#8722;hopfensperger-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn)](https://www.linkedin.com/in/florian-hopfensperger)
